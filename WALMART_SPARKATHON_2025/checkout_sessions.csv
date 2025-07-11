@@ -1,0 +1,501 @@
+session_id,query,category,views,time_spent,clicked_coupon,shipping_checked,checkout_pressed,real_checkout
+000,deal of the day,appliances,17,170,no,yes,yes,1
+001,deal of the day,fashion,14,200,yes,no,yes,0
+002,best grocery deal,grocery,8,252,yes,no,no,1
+003,deal of the day,electronics,3,166,no,no,yes,0
+004,deal of the day,fashion,18,282,yes,yes,no,1
+005,limited edition shoes,fashion,3,48,yes,yes,no,1
+006,limited edition shoes,appliances,11,81,yes,no,no,0
+007,iphone 15 discount,grocery,16,166,no,yes,no,1
+008,best grocery deal,electronics,9,152,yes,no,no,1
+009,budget air fryer,electronics,11,266,yes,no,yes,0
+010,best grocery deal,appliances,4,129,no,no,yes,0
+011,deal of the day,fashion,5,17,yes,yes,yes,1
+012,deal of the day,electronics,4,272,yes,no,yes,0
+013,limited edition shoes,electronics,16,225,yes,yes,yes,1
+014,limited edition shoes,fashion,4,110,yes,yes,no,1
+015,limited edition shoes,appliances,1,248,yes,no,no,1
+016,limited edition shoes,electronics,17,50,yes,no,yes,0
+017,iphone 15 discount,fashion,20,111,yes,no,no,1
+018,cheap headphones,electronics,10,265,yes,yes,no,1
+019,budget air fryer,fashion,14,241,yes,no,no,1
+020,iphone 15 discount,electronics,6,51,yes,no,yes,0
+021,best grocery deal,fashion,9,33,no,yes,no,1
+022,iphone 15 discount,appliances,14,198,no,no,yes,0
+023,budget air fryer,fashion,20,272,no,yes,no,1
+024,cheap headphones,appliances,1,186,no,no,yes,0
+025,deal of the day,fashion,20,110,no,no,yes,0
+026,limited edition shoes,fashion,6,297,no,yes,yes,1
+027,deal of the day,electronics,1,41,yes,no,yes,0
+028,iphone 15 discount,fashion,12,273,yes,no,yes,0
+029,limited edition shoes,appliances,20,241,yes,no,no,1
+030,best grocery deal,fashion,8,108,yes,yes,yes,1
+031,cheap headphones,fashion,12,200,no,yes,no,1
+032,iphone 15 discount,appliances,6,19,yes,no,yes,0
+033,deal of the day,fashion,15,258,yes,no,yes,0
+034,deal of the day,grocery,16,282,yes,no,yes,0
+035,iphone 15 discount,appliances,11,234,yes,no,yes,0
+036,deal of the day,grocery,10,54,yes,yes,no,1
+037,deal of the day,appliances,20,101,yes,yes,no,1
+038,cheap headphones,fashion,1,100,yes,yes,no,1
+039,cheap headphones,grocery,16,99,yes,no,yes,0
+040,budget air fryer,electronics,6,121,no,no,yes,0
+041,budget air fryer,electronics,11,153,no,no,no,1
+042,deal of the day,appliances,20,94,no,no,yes,0
+043,best grocery deal,electronics,10,120,yes,yes,yes,1
+044,iphone 15 discount,appliances,14,137,yes,no,yes,0
+045,limited edition shoes,electronics,1,124,no,no,no,1
+046,deal of the day,fashion,4,74,no,yes,yes,1
+047,limited edition shoes,appliances,17,274,no,yes,yes,1
+048,iphone 15 discount,electronics,11,96,yes,no,yes,0
+049,deal of the day,fashion,14,145,yes,yes,no,1
+050,iphone 15 discount,appliances,11,216,yes,yes,yes,1
+051,budget air fryer,grocery,7,256,no,yes,yes,1
+052,cheap headphones,grocery,14,45,no,yes,yes,1
+053,limited edition shoes,fashion,11,216,yes,yes,no,1
+054,deal of the day,grocery,5,128,yes,yes,no,1
+055,deal of the day,fashion,4,146,no,no,yes,0
+056,budget air fryer,grocery,14,199,yes,yes,yes,1
+057,best grocery deal,appliances,7,255,no,yes,yes,1
+058,best grocery deal,appliances,19,36,no,yes,no,1
+059,cheap headphones,electronics,3,122,yes,no,no,1
+060,best grocery deal,grocery,7,53,yes,yes,no,1
+061,deal of the day,electronics,19,132,yes,no,no,1
+062,cheap headphones,appliances,7,192,yes,no,no,1
+063,budget air fryer,electronics,13,220,yes,no,no,1
+064,limited edition shoes,appliances,3,68,yes,yes,yes,1
+065,deal of the day,appliances,6,231,no,yes,no,1
+066,budget air fryer,fashion,6,274,yes,yes,no,1
+067,budget air fryer,grocery,5,187,no,no,no,1
+068,deal of the day,fashion,19,127,no,yes,no,1
+069,cheap headphones,grocery,14,254,no,no,no,1
+070,iphone 15 discount,appliances,1,170,yes,no,no,1
+071,best grocery deal,appliances,7,23,no,no,yes,0
+072,best grocery deal,grocery,15,180,no,no,no,1
+073,cheap headphones,appliances,14,73,yes,no,no,0
+074,iphone 15 discount,fashion,6,290,no,yes,no,1
+075,iphone 15 discount,fashion,11,191,yes,yes,yes,1
+076,cheap headphones,appliances,10,31,no,yes,yes,1
+077,iphone 15 discount,electronics,1,164,no,no,yes,0
+078,cheap headphones,electronics,18,170,yes,yes,yes,1
+079,budget air fryer,electronics,1,239,yes,yes,yes,1
+080,iphone 15 discount,fashion,15,107,yes,yes,yes,1
+081,deal of the day,electronics,11,271,yes,no,yes,0
+082,deal of the day,appliances,20,207,yes,no,yes,0
+083,cheap headphones,electronics,7,115,no,no,no,1
+084,iphone 15 discount,grocery,13,121,no,yes,no,1
+085,limited edition shoes,appliances,5,183,no,yes,no,1
+086,budget air fryer,electronics,19,155,yes,no,no,1
+087,best grocery deal,electronics,17,228,yes,yes,yes,1
+088,best grocery deal,appliances,4,254,no,yes,no,1
+089,iphone 15 discount,grocery,14,145,no,no,yes,0
+090,cheap headphones,grocery,20,33,yes,yes,yes,1
+091,best grocery deal,electronics,18,147,yes,no,yes,0
+092,iphone 15 discount,grocery,4,263,no,no,no,1
+093,cheap headphones,electronics,8,72,no,yes,yes,1
+094,cheap headphones,electronics,4,269,yes,yes,no,1
+095,limited edition shoes,appliances,4,118,yes,yes,yes,1
+096,deal of the day,fashion,15,292,no,no,yes,0
+097,best grocery deal,electronics,7,148,yes,yes,yes,1
+098,cheap headphones,grocery,3,139,no,no,no,1
+099,limited edition shoes,electronics,3,129,no,yes,no,1
+100,limited edition shoes,fashion,19,231,no,yes,yes,1
+101,best grocery deal,fashion,4,93,yes,yes,no,1
+102,budget air fryer,electronics,8,131,yes,yes,no,1
+103,limited edition shoes,grocery,11,104,no,yes,no,1
+104,best grocery deal,appliances,20,68,yes,yes,yes,1
+105,budget air fryer,fashion,4,196,yes,yes,yes,1
+106,deal of the day,fashion,17,145,no,no,no,1
+107,iphone 15 discount,grocery,10,261,no,no,no,1
+108,budget air fryer,electronics,11,252,no,no,no,1
+109,deal of the day,fashion,4,101,no,yes,yes,1
+110,iphone 15 discount,fashion,5,204,no,no,no,1
+111,limited edition shoes,appliances,3,14,no,yes,yes,1
+112,best grocery deal,electronics,1,271,no,yes,yes,1
+113,budget air fryer,fashion,19,192,yes,no,no,1
+114,cheap headphones,fashion,15,144,no,yes,yes,1
+115,best grocery deal,appliances,8,90,no,yes,no,1
+116,best grocery deal,grocery,3,73,no,yes,no,1
+117,iphone 15 discount,appliances,5,157,yes,yes,no,1
+118,best grocery deal,appliances,6,107,yes,yes,no,1
+119,budget air fryer,grocery,11,18,no,yes,no,1
+120,limited edition shoes,appliances,8,118,no,no,yes,0
+121,limited edition shoes,grocery,20,134,no,yes,no,1
+122,limited edition shoes,appliances,13,221,no,yes,yes,1
+123,budget air fryer,fashion,14,129,no,no,no,1
+124,limited edition shoes,fashion,6,114,yes,no,yes,0
+125,budget air fryer,fashion,1,98,no,yes,yes,1
+126,budget air fryer,appliances,19,296,no,no,no,1
+127,iphone 15 discount,fashion,20,110,yes,yes,no,1
+128,deal of the day,electronics,19,106,yes,yes,yes,1
+129,cheap headphones,appliances,17,168,yes,no,yes,0
+130,deal of the day,electronics,1,166,yes,yes,yes,1
+131,iphone 15 discount,grocery,18,286,yes,yes,yes,1
+132,deal of the day,electronics,5,184,no,no,yes,0
+133,budget air fryer,electronics,20,145,no,yes,yes,1
+134,budget air fryer,appliances,2,292,yes,yes,yes,1
+135,iphone 15 discount,electronics,11,175,no,yes,yes,1
+136,limited edition shoes,appliances,11,125,yes,no,no,1
+137,deal of the day,grocery,14,155,no,yes,no,1
+138,limited edition shoes,fashion,14,22,yes,yes,no,1
+139,deal of the day,electronics,2,105,no,yes,no,1
+140,deal of the day,fashion,20,199,no,yes,yes,1
+141,iphone 15 discount,appliances,12,286,no,yes,no,1
+142,budget air fryer,grocery,5,159,no,no,no,1
+143,deal of the day,electronics,3,16,no,yes,no,1
+144,limited edition shoes,electronics,8,52,yes,no,yes,0
+145,deal of the day,appliances,12,127,no,no,yes,0
+146,deal of the day,electronics,2,38,yes,no,yes,0
+147,budget air fryer,electronics,4,124,no,no,no,1
+148,deal of the day,grocery,14,42,no,yes,yes,1
+149,iphone 15 discount,electronics,15,71,yes,no,no,0
+150,limited edition shoes,appliances,2,252,yes,no,yes,0
+151,limited edition shoes,grocery,11,207,no,yes,no,1
+152,budget air fryer,fashion,11,11,no,yes,no,1
+153,cheap headphones,appliances,11,150,no,yes,yes,1
+154,deal of the day,electronics,19,292,yes,no,no,1
+155,best grocery deal,appliances,15,128,yes,no,no,1
+156,cheap headphones,electronics,18,81,yes,no,yes,0
+157,iphone 15 discount,fashion,13,20,yes,no,no,0
+158,deal of the day,fashion,18,194,no,yes,no,1
+159,best grocery deal,appliances,2,178,no,no,no,1
+160,budget air fryer,appliances,13,205,no,no,yes,0
+161,best grocery deal,grocery,19,33,no,yes,no,1
+162,cheap headphones,fashion,12,204,yes,yes,no,1
+163,deal of the day,grocery,6,125,no,no,no,1
+164,cheap headphones,electronics,12,119,no,yes,yes,1
+165,cheap headphones,fashion,11,145,yes,no,no,1
+166,best grocery deal,grocery,17,137,no,yes,yes,1
+167,cheap headphones,appliances,11,246,yes,no,yes,0
+168,limited edition shoes,electronics,20,220,yes,yes,yes,1
+169,limited edition shoes,appliances,18,136,yes,no,yes,0
+170,budget air fryer,appliances,13,71,yes,no,yes,0
+171,budget air fryer,fashion,2,228,yes,no,no,1
+172,cheap headphones,fashion,2,297,yes,yes,yes,1
+173,deal of the day,appliances,8,168,no,yes,yes,1
+174,iphone 15 discount,electronics,8,154,no,yes,yes,1
+175,best grocery deal,grocery,10,70,no,yes,yes,1
+176,limited edition shoes,fashion,13,97,no,no,no,1
+177,budget air fryer,electronics,5,49,no,no,no,1
+178,budget air fryer,electronics,16,39,yes,yes,yes,1
+179,iphone 15 discount,grocery,9,43,yes,yes,no,1
+180,budget air fryer,grocery,15,285,no,yes,yes,1
+181,deal of the day,fashion,18,275,yes,yes,yes,1
+182,cheap headphones,appliances,9,31,no,no,no,1
+183,limited edition shoes,fashion,1,133,no,yes,no,1
+184,budget air fryer,electronics,15,266,yes,yes,yes,1
+185,best grocery deal,grocery,4,81,yes,yes,no,1
+186,deal of the day,fashion,1,87,no,no,no,1
+187,best grocery deal,grocery,1,120,no,no,yes,0
+188,limited edition shoes,fashion,7,39,yes,yes,yes,1
+189,cheap headphones,grocery,16,47,no,no,yes,0
+190,best grocery deal,electronics,16,134,yes,no,no,1
+191,cheap headphones,appliances,15,114,yes,no,yes,0
+192,deal of the day,appliances,10,62,yes,no,no,0
+193,iphone 15 discount,electronics,4,213,no,no,yes,0
+194,cheap headphones,electronics,8,189,no,no,no,1
+195,cheap headphones,fashion,18,266,yes,no,yes,0
+196,cheap headphones,electronics,15,228,yes,yes,no,1
+197,limited edition shoes,appliances,10,47,yes,no,no,0
+198,limited edition shoes,grocery,8,143,yes,no,no,1
+199,iphone 15 discount,appliances,8,175,no,yes,yes,1
+200,limited edition shoes,grocery,19,40,no,no,no,1
+201,limited edition shoes,grocery,13,233,no,no,no,1
+202,iphone 15 discount,electronics,16,26,no,no,no,1
+203,cheap headphones,appliances,6,166,yes,no,no,1
+204,best grocery deal,grocery,19,66,yes,yes,no,1
+205,best grocery deal,grocery,19,21,no,yes,yes,1
+206,budget air fryer,grocery,3,100,no,yes,yes,1
+207,deal of the day,appliances,19,144,yes,yes,no,1
+208,budget air fryer,fashion,3,287,yes,no,no,1
+209,iphone 15 discount,grocery,16,231,yes,yes,no,1
+210,best grocery deal,electronics,17,59,yes,no,yes,0
+211,deal of the day,appliances,3,175,yes,no,no,1
+212,deal of the day,fashion,11,103,no,yes,yes,1
+213,budget air fryer,appliances,8,99,no,yes,no,1
+214,limited edition shoes,appliances,11,143,yes,yes,yes,1
+215,limited edition shoes,grocery,12,174,no,yes,no,1
+216,cheap headphones,appliances,20,23,no,yes,yes,1
+217,limited edition shoes,electronics,2,164,yes,no,yes,0
+218,cheap headphones,fashion,17,242,no,yes,yes,1
+219,iphone 15 discount,fashion,4,206,yes,yes,no,1
+220,best grocery deal,appliances,9,68,no,no,no,1
+221,budget air fryer,electronics,13,265,no,no,no,1
+222,limited edition shoes,grocery,13,67,yes,no,no,0
+223,iphone 15 discount,fashion,4,57,no,yes,yes,1
+224,iphone 15 discount,appliances,16,245,no,no,yes,0
+225,deal of the day,electronics,6,129,yes,yes,no,1
+226,best grocery deal,fashion,10,280,no,no,no,1
+227,best grocery deal,electronics,13,139,yes,no,yes,0
+228,best grocery deal,electronics,6,213,no,yes,no,1
+229,deal of the day,electronics,20,157,yes,no,yes,0
+230,limited edition shoes,fashion,2,211,no,no,no,1
+231,iphone 15 discount,fashion,20,131,yes,no,yes,0
+232,limited edition shoes,electronics,6,39,yes,no,no,0
+233,limited edition shoes,appliances,19,125,no,yes,yes,1
+234,cheap headphones,electronics,12,207,yes,yes,yes,1
+235,deal of the day,electronics,4,245,yes,yes,yes,1
+236,best grocery deal,fashion,10,257,no,yes,no,1
+237,iphone 15 discount,grocery,1,98,yes,no,yes,0
+238,deal of the day,appliances,3,270,no,yes,no,1
+239,cheap headphones,appliances,11,234,no,no,yes,0
+240,limited edition shoes,appliances,8,55,yes,yes,no,1
+241,budget air fryer,appliances,20,263,no,no,yes,0
+242,iphone 15 discount,appliances,1,273,yes,no,no,1
+243,deal of the day,appliances,19,265,yes,yes,no,1
+244,limited edition shoes,fashion,8,268,yes,no,yes,0
+245,best grocery deal,appliances,16,176,yes,yes,no,1
+246,limited edition shoes,fashion,6,226,no,yes,yes,1
+247,limited edition shoes,appliances,17,127,no,yes,no,1
+248,best grocery deal,fashion,8,31,no,yes,no,1
+249,best grocery deal,appliances,16,86,yes,yes,no,1
+250,best grocery deal,fashion,18,202,no,yes,no,1
+251,budget air fryer,grocery,19,23,no,yes,no,1
+252,cheap headphones,appliances,13,176,no,no,no,1
+253,limited edition shoes,fashion,9,262,no,no,yes,0
+254,budget air fryer,fashion,6,86,yes,yes,no,1
+255,budget air fryer,grocery,13,67,no,yes,yes,1
+256,budget air fryer,grocery,8,209,no,no,yes,0
+257,cheap headphones,appliances,8,138,yes,yes,yes,1
+258,cheap headphones,fashion,19,186,no,yes,yes,1
+259,best grocery deal,appliances,2,277,no,no,yes,0
+260,cheap headphones,fashion,17,25,yes,no,no,0
+261,cheap headphones,appliances,3,257,no,no,no,1
+262,best grocery deal,grocery,13,184,yes,no,no,1
+263,deal of the day,grocery,18,41,no,no,no,1
+264,limited edition shoes,electronics,9,264,yes,no,yes,0
+265,iphone 15 discount,grocery,7,109,yes,yes,no,1
+266,best grocery deal,electronics,5,55,no,no,no,1
+267,deal of the day,grocery,15,278,yes,yes,yes,1
+268,best grocery deal,grocery,16,67,yes,yes,yes,1
+269,iphone 15 discount,appliances,18,92,yes,yes,no,1
+270,deal of the day,fashion,7,64,no,no,yes,0
+271,cheap headphones,electronics,6,295,yes,no,no,1
+272,cheap headphones,grocery,9,153,yes,yes,yes,1
+273,best grocery deal,electronics,16,40,no,yes,no,1
+274,cheap headphones,electronics,13,152,no,yes,yes,1
+275,iphone 15 discount,fashion,2,74,no,yes,no,1
+276,best grocery deal,grocery,11,283,no,yes,no,1
+277,deal of the day,appliances,20,131,no,no,yes,0
+278,limited edition shoes,grocery,9,294,yes,yes,yes,1
+279,cheap headphones,electronics,5,81,yes,yes,no,1
+280,limited edition shoes,electronics,4,33,yes,yes,yes,1
+281,best grocery deal,grocery,18,63,yes,yes,no,1
+282,best grocery deal,electronics,1,227,yes,no,yes,0
+283,deal of the day,grocery,7,264,yes,yes,no,1
+284,limited edition shoes,appliances,5,97,no,no,yes,0
+285,best grocery deal,appliances,18,41,yes,no,no,0
+286,iphone 15 discount,grocery,12,76,yes,yes,no,1
+287,cheap headphones,fashion,20,182,no,yes,no,1
+288,deal of the day,grocery,7,92,no,yes,yes,1
+289,cheap headphones,appliances,16,22,no,yes,no,1
+290,deal of the day,electronics,16,53,no,yes,yes,1
+291,cheap headphones,appliances,5,197,no,no,yes,0
+292,iphone 15 discount,fashion,1,107,no,no,yes,0
+293,iphone 15 discount,appliances,9,182,yes,no,no,1
+294,best grocery deal,fashion,14,225,no,no,yes,0
+295,deal of the day,fashion,17,205,yes,yes,no,1
+296,limited edition shoes,electronics,5,273,yes,yes,yes,1
+297,budget air fryer,fashion,16,201,no,no,yes,0
+298,iphone 15 discount,appliances,7,68,yes,yes,no,1
+299,limited edition shoes,electronics,16,213,no,no,no,1
+300,best grocery deal,electronics,3,57,yes,yes,no,1
+301,deal of the day,grocery,6,200,yes,no,no,1
+302,best grocery deal,electronics,1,49,no,no,no,1
+303,limited edition shoes,electronics,14,206,yes,no,yes,0
+304,budget air fryer,electronics,12,172,yes,no,no,1
+305,budget air fryer,electronics,1,20,no,no,no,1
+306,limited edition shoes,fashion,10,239,no,yes,no,1
+307,iphone 15 discount,electronics,2,27,yes,yes,yes,1
+308,deal of the day,electronics,13,146,no,yes,no,1
+309,cheap headphones,fashion,3,281,yes,yes,yes,1
+310,cheap headphones,grocery,10,254,yes,yes,yes,1
+311,limited edition shoes,grocery,20,15,yes,no,no,0
+312,limited edition shoes,fashion,8,155,yes,no,yes,0
+313,budget air fryer,appliances,2,70,no,yes,yes,1
+314,deal of the day,fashion,20,292,no,no,yes,0
+315,cheap headphones,electronics,6,53,no,no,yes,0
+316,deal of the day,fashion,16,34,yes,yes,yes,1
+317,cheap headphones,fashion,16,55,yes,no,yes,0
+318,deal of the day,fashion,2,56,no,no,yes,0
+319,best grocery deal,electronics,2,141,no,yes,no,1
+320,iphone 15 discount,grocery,15,117,yes,yes,no,1
+321,budget air fryer,appliances,16,228,yes,yes,yes,1
+322,deal of the day,grocery,2,238,no,yes,yes,1
+323,iphone 15 discount,appliances,13,231,yes,yes,yes,1
+324,limited edition shoes,electronics,7,243,no,yes,yes,1
+325,limited edition shoes,fashion,7,245,no,no,no,1
+326,cheap headphones,fashion,5,145,yes,no,yes,0
+327,budget air fryer,fashion,4,135,yes,yes,yes,1
+328,cheap headphones,appliances,2,212,no,yes,no,1
+329,budget air fryer,appliances,10,83,no,yes,yes,1
+330,best grocery deal,grocery,14,230,no,yes,yes,1
+331,cheap headphones,appliances,17,137,no,no,yes,0
+332,best grocery deal,appliances,5,206,no,no,no,1
+333,iphone 15 discount,fashion,20,27,no,no,yes,0
+334,budget air fryer,appliances,16,56,no,no,yes,0
+335,cheap headphones,electronics,19,45,yes,no,yes,0
+336,iphone 15 discount,fashion,18,138,yes,yes,no,1
+337,budget air fryer,fashion,11,101,yes,no,yes,0
+338,iphone 15 discount,fashion,4,206,yes,yes,no,1
+339,cheap headphones,grocery,18,238,yes,no,yes,0
+340,best grocery deal,appliances,1,300,no,no,yes,0
+341,deal of the day,fashion,19,208,no,no,yes,0
+342,cheap headphones,electronics,2,76,no,yes,yes,1
+343,budget air fryer,appliances,10,93,yes,no,no,1
+344,best grocery deal,electronics,6,210,no,no,no,1
+345,cheap headphones,appliances,2,56,no,yes,no,1
+346,budget air fryer,fashion,9,37,no,no,yes,0
+347,cheap headphones,appliances,3,71,no,no,no,1
+348,cheap headphones,electronics,10,246,yes,yes,yes,1
+349,iphone 15 discount,grocery,16,228,no,yes,yes,1
+350,budget air fryer,appliances,7,79,no,yes,no,1
+351,iphone 15 discount,fashion,16,47,no,no,no,1
+352,cheap headphones,electronics,17,111,yes,no,no,1
+353,budget air fryer,fashion,3,22,yes,no,yes,0
+354,limited edition shoes,appliances,8,112,yes,no,yes,0
+355,cheap headphones,electronics,1,106,no,no,yes,0
+356,cheap headphones,appliances,9,255,yes,no,yes,0
+357,budget air fryer,grocery,10,183,yes,no,no,1
+358,limited edition shoes,grocery,5,187,no,no,yes,0
+359,budget air fryer,fashion,2,63,yes,yes,no,1
+360,budget air fryer,grocery,2,110,no,yes,no,1
+361,best grocery deal,electronics,18,90,no,no,no,1
+362,best grocery deal,grocery,7,217,no,yes,yes,1
+363,best grocery deal,electronics,14,81,no,yes,yes,1
+364,cheap headphones,fashion,10,300,yes,yes,yes,1
+365,best grocery deal,electronics,5,125,no,yes,no,1
+366,cheap headphones,electronics,7,222,no,yes,no,1
+367,limited edition shoes,electronics,17,262,no,yes,no,1
+368,deal of the day,electronics,11,195,no,no,no,1
+369,budget air fryer,fashion,16,104,yes,no,no,1
+370,iphone 15 discount,grocery,5,269,yes,no,yes,0
+371,iphone 15 discount,appliances,17,168,no,no,yes,0
+372,budget air fryer,fashion,8,204,yes,no,no,1
+373,cheap headphones,electronics,20,91,no,no,yes,0
+374,budget air fryer,appliances,17,32,no,no,no,1
+375,limited edition shoes,electronics,3,251,yes,yes,no,1
+376,cheap headphones,fashion,15,254,yes,no,yes,0
+377,budget air fryer,electronics,19,294,no,yes,no,1
+378,limited edition shoes,fashion,3,163,no,no,yes,0
+379,best grocery deal,appliances,3,43,yes,no,yes,0
+380,deal of the day,appliances,14,56,yes,no,no,0
+381,limited edition shoes,grocery,3,155,no,no,yes,0
+382,iphone 15 discount,fashion,6,283,no,yes,no,1
+383,best grocery deal,fashion,17,181,yes,no,no,1
+384,deal of the day,appliances,12,50,no,no,no,1
+385,limited edition shoes,electronics,9,246,no,no,no,1
+386,cheap headphones,grocery,18,275,no,yes,yes,1
+387,cheap headphones,fashion,19,77,yes,no,yes,0
+388,iphone 15 discount,grocery,1,29,yes,no,yes,0
+389,iphone 15 discount,electronics,2,290,no,yes,yes,1
+390,best grocery deal,grocery,18,55,yes,yes,no,1
+391,limited edition shoes,fashion,2,236,yes,yes,no,1
+392,cheap headphones,electronics,8,146,no,no,no,1
+393,best grocery deal,appliances,9,20,no,yes,no,1
+394,deal of the day,fashion,2,68,no,yes,no,1
+395,best grocery deal,fashion,19,75,yes,no,no,0
+396,cheap headphones,appliances,2,78,yes,yes,no,1
+397,limited edition shoes,fashion,15,259,yes,yes,no,1
+398,limited edition shoes,electronics,2,58,no,no,yes,0
+399,best grocery deal,electronics,9,210,no,no,no,1
+400,budget air fryer,fashion,7,285,yes,no,no,1
+401,budget air fryer,grocery,1,26,yes,yes,yes,1
+402,best grocery deal,fashion,1,64,yes,yes,no,1
+403,best grocery deal,fashion,20,124,yes,yes,yes,1
+404,best grocery deal,grocery,1,156,yes,yes,yes,1
+405,budget air fryer,electronics,2,80,no,yes,no,1
+406,best grocery deal,appliances,14,174,yes,no,no,1
+407,best grocery deal,grocery,4,168,yes,yes,no,1
+408,best grocery deal,electronics,18,147,no,no,yes,0
+409,best grocery deal,grocery,2,108,no,yes,no,1
+410,limited edition shoes,appliances,13,98,yes,no,no,1
+411,deal of the day,fashion,20,224,yes,no,yes,0
+412,cheap headphones,appliances,15,264,no,no,no,1
+413,budget air fryer,electronics,16,233,no,no,no,1
+414,iphone 15 discount,fashion,14,96,yes,yes,no,1
+415,deal of the day,electronics,12,125,no,no,no,1
+416,best grocery deal,appliances,6,45,yes,yes,no,1
+417,budget air fryer,fashion,7,99,yes,no,no,1
+418,deal of the day,fashion,19,171,no,yes,no,1
+419,deal of the day,electronics,17,38,no,yes,no,1
+420,best grocery deal,appliances,17,241,yes,no,yes,0
+421,deal of the day,appliances,15,155,no,yes,yes,1
+422,best grocery deal,grocery,9,211,yes,no,yes,0
+423,best grocery deal,electronics,6,246,no,no,no,1
+424,iphone 15 discount,appliances,1,141,no,no,no,1
+425,cheap headphones,appliances,13,82,yes,no,no,0
+426,limited edition shoes,grocery,12,193,yes,no,no,1
+427,deal of the day,appliances,6,115,yes,yes,yes,1
+428,best grocery deal,grocery,9,268,yes,no,no,1
+429,iphone 15 discount,appliances,13,12,yes,yes,no,1
+430,limited edition shoes,fashion,10,162,yes,yes,no,1
+431,budget air fryer,grocery,11,169,no,yes,yes,1
+432,budget air fryer,electronics,12,215,yes,no,no,1
+433,cheap headphones,grocery,7,240,yes,no,no,1
+434,deal of the day,electronics,12,166,no,no,yes,0
+435,cheap headphones,fashion,14,86,no,no,no,1
+436,cheap headphones,fashion,6,117,yes,yes,no,1
+437,deal of the day,grocery,16,96,no,yes,yes,1
+438,best grocery deal,electronics,12,193,yes,no,yes,0
+439,cheap headphones,electronics,12,150,yes,no,yes,0
+440,limited edition shoes,electronics,1,161,yes,no,yes,0
+441,best grocery deal,electronics,19,98,yes,yes,yes,1
+442,deal of the day,appliances,2,61,no,yes,yes,1
+443,iphone 15 discount,grocery,8,75,no,no,yes,0
+444,limited edition shoes,appliances,10,151,yes,no,yes,0
+445,limited edition shoes,grocery,4,20,yes,yes,no,1
+446,budget air fryer,appliances,15,117,no,yes,no,1
+447,budget air fryer,electronics,2,102,yes,yes,no,1
+448,deal of the day,fashion,18,11,no,yes,no,1
+449,limited edition shoes,electronics,2,246,yes,no,no,1
+450,limited edition shoes,appliances,1,171,no,yes,yes,1
+451,limited edition shoes,electronics,12,158,no,yes,yes,1
+452,limited edition shoes,electronics,1,231,no,no,yes,0
+453,cheap headphones,grocery,17,64,no,yes,no,1
+454,limited edition shoes,grocery,9,189,no,yes,no,1
+455,budget air fryer,grocery,12,289,no,no,no,1
+456,budget air fryer,electronics,3,204,yes,yes,no,1
+457,cheap headphones,appliances,14,200,no,yes,yes,1
+458,budget air fryer,grocery,6,45,no,no,yes,0
+459,budget air fryer,electronics,16,236,no,yes,no,1
+460,iphone 15 discount,grocery,18,84,no,no,yes,0
+461,best grocery deal,fashion,17,294,yes,yes,no,1
+462,iphone 15 discount,appliances,13,193,no,yes,no,1
+463,limited edition shoes,grocery,13,101,yes,no,yes,0
+464,budget air fryer,grocery,12,258,no,yes,no,1
+465,best grocery deal,electronics,5,160,no,yes,yes,1
+466,limited edition shoes,electronics,17,224,no,no,yes,0
+467,budget air fryer,appliances,10,64,no,no,no,1
+468,best grocery deal,appliances,5,195,yes,no,yes,0
+469,limited edition shoes,appliances,17,148,yes,no,yes,0
+470,deal of the day,electronics,1,19,no,yes,yes,1
+471,best grocery deal,grocery,8,105,no,no,no,1
+472,cheap headphones,fashion,10,29,yes,no,yes,0
+473,budget air fryer,electronics,2,33,yes,no,yes,0
+474,iphone 15 discount,fashion,8,76,yes,no,yes,0
+475,iphone 15 discount,appliances,18,50,yes,no,no,0
+476,best grocery deal,appliances,7,66,yes,no,no,0
+477,budget air fryer,fashion,12,272,no,yes,yes,1
+478,deal of the day,electronics,19,56,yes,no,yes,0
+479,deal of the day,appliances,16,60,yes,yes,yes,1
+480,deal of the day,grocery,14,52,yes,no,yes,0
+481,iphone 15 discount,electronics,3,244,yes,no,no,1
+482,limited edition shoes,appliances,4,173,yes,yes,no,1
+483,budget air fryer,fashion,9,193,no,no,yes,0
+484,iphone 15 discount,electronics,19,44,yes,yes,yes,1
+485,best grocery deal,electronics,1,204,no,yes,yes,1
+486,iphone 15 discount,grocery,8,43,no,no,yes,0
+487,deal of the day,appliances,12,296,yes,yes,yes,1
+488,budget air fryer,grocery,5,147,no,yes,yes,1
+489,cheap headphones,electronics,6,126,yes,yes,yes,1
+490,limited edition shoes,appliances,3,23,yes,no,yes,0
+491,iphone 15 discount,electronics,18,198,no,no,no,1
+492,deal of the day,fashion,18,290,no,no,yes,0
+493,deal of the day,grocery,15,180,no,no,no,1
+494,deal of the day,grocery,16,123,no,no,yes,0
+495,cheap headphones,electronics,8,112,yes,no,yes,0
+496,best grocery deal,grocery,13,266,no,yes,no,1
+497,limited edition shoes,fashion,17,45,yes,yes,yes,1
+498,best grocery deal,electronics,15,21,no,yes,yes,1
+499,limited edition shoes,appliances,13,101,yes,yes,yes,1
